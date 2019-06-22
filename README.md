@@ -1,2 +1,0 @@
-# GoogleBooksSearch
-Searches Google Books
